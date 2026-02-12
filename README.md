@@ -6,33 +6,33 @@ AutoMLite automates the **end-to-end machine learning workflow**—from data pre
 ---
 
 ## **Key Features**  
-✔ **Automated Data Preprocessing**  
+1. **Automated Data Preprocessing**  
 - Handles missing values, scaling, and categorical encoding automatically.  
 
-✔ **Feature Engineering**  
+2. **Feature Engineering**  
 - Polynomial feature generation, feature selection, and more.  
 
-✔ **Model Selection & Training**  
+3. **Model Selection & Training**  
 - Supports multiple models:  
   - Logistic Regression  
   - Random Forest  
   - SVM  
   - Multi-Layer Perceptron (MLP)  
 
-✔ **Hyperparameter Optimization**  
+4. **Hyperparameter Optimization**  
 - Efficient tuning with **Optuna**.  
 
-✔ **Evaluation & Reporting**  
+5. **Evaluation & Reporting**  
 - Standard ML metrics (Accuracy, Precision, Recall, F1-score)  
 - Confusion matrix  
 
-✔ **Explainability**  
+6. **Explainability**  
 - **SHAP-based feature importance** and model interpretation.  
 
-✔ **Resource-Efficient**  
+7. **Resource-Efficient**  
 - Optimized for systems with **8GB RAM or more**.  
 
-✔ **Extensible & Modular**  
+8. **Extensible & Modular**  
 - Easily add new models or preprocessing steps.  
 
 ---
